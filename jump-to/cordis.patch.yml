@@ -1,0 +1,4 @@
+# Jump-to navigation layer: one browser plugin row, no host service.
+- insert:
+    - id: local-jump
+      name: '@local/dsh-jump'

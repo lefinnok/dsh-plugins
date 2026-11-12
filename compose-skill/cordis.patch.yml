@@ -1,0 +1,3 @@
+- insert:
+    - id: compose-skill
+      name: '@local/dsh-compose'

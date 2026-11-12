@@ -1,0 +1,4 @@
+# Agent dashboard: one browser plugin row plus its host activity feed.
+- insert:
+    - id: local-dashboard
+      name: '@local/dsh-dashboard'

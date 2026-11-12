@@ -1,0 +1,3 @@
+- insert:
+    - id: memory-tab
+      name: '@local/dsh-memory'

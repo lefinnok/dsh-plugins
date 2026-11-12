@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Budget Monitor">
+  <rect x="2" y="2" width="60" height="60" rx="16" fill="#4D6BFE"/>
+  <path d="M14 25.5c0-3 2.4-5.5 5.5-5.5h25c3 0 5.5 2.5 5.5 5.5v3H14z" fill="#FFFFFF" opacity="0.92"/>
+  <rect x="14" y="28.5" width="36" height="19" rx="4.5" fill="#FFFFFF" opacity="0.22" stroke="#FFFFFF" stroke-width="2"/>
+  <path d="M19 41.5l6.5-6 5.5 4.5 7-8 7.5 6.5" fill="none" stroke="#FFFFFF" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="45" cy="34.5" r="2.4" fill="#FFFFFF"/>
+</svg>

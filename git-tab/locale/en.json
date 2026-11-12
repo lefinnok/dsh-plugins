@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Git Status",
+    "description": "Live Git state for the Session's working directory — branch, HEAD, upstream divergence, worktree identity, and staged/unstaged/untracked changes — with one-click repository initialization."
+  }
+}

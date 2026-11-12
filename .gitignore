@@ -1,0 +1,11 @@
+node_modules/
+.pnpm-store/
+graphify-out/
+graphify-ref/
+mimo-code-ref/
+opencode/
+docs/
+dsh-share/
+.DS_Store
+*.log
+.graphifyignore

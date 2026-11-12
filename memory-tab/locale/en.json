@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Memory",
+    "description": "A Memory tab beside Chat and Trajectory that browses, searches, and reads the persistent Markdown memory the agent recalls across sessions."
+  }
+}

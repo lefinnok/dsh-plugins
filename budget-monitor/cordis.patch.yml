@@ -1,0 +1,3 @@
+- insert:
+    - id: dsh-budget-monitor
+      name: '@local/dsh-budget-monitor'

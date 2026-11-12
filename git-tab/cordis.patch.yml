@@ -1,0 +1,5 @@
+# Git status: one browser plugin row, whose Host half serves the status and
+# init routes the chip and panel call.
+- insert:
+    - id: local-git
+      name: '@local/dsh-git'

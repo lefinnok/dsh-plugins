@@ -1,0 +1,4 @@
+# LeetCode Arena: one Host row (catalog, runner, coach routes) and its browser panel.
+- insert:
+    - id: leetcode-arena
+      name: '@local/dsh-leetcode'

@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Usage",
+    "description": "Tracks DeepSeek balance spend, remaining credit, and progress against a per-minute, hourly, or daily usage budget."
+  }
+}
